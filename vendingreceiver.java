@@ -5,7 +5,8 @@ import java.util.Scanner;
  * HW Week 2 CSCI 70900
  * 
  * @author B.Cornish
- * @collaborator no one so far
+ * @collaborator L.Moffitt
+ * @collaborate P.Chu
  * @version 1.0 Sept 11, 2023
  */
 public class vendingreceiver {
